@@ -2,7 +2,7 @@
 /* CSS Document */
 body {
 	background-color: #6699FF;
-	text-color: #D5E3FF;
+	color: #D5E3FF;
 	font-family: Verdana, Arial, sans-serif;	
 	width: 80%;
 	margin-right: auto;
@@ -10,7 +10,7 @@ body {
 }
 header {
 	background-color: #6699FF;
-	text-color: #003366;	
+	color: #003366;	
 	font-family: serif;
 }
 h1 {
@@ -22,7 +22,7 @@ nav {
 .category {
 	font-weight: bold;
 	background-color: #6699FF;
-	text-color: #003366;
+	color: #003366;
 	font-size: 1.1em;	
 }
 footer {
